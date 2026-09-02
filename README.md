@@ -30,7 +30,7 @@ https://gitverse.ru/avpavlow - это особый репозиторий
 [Эксперт по созданию игр в gamedev-сфере](https://stepik.org/course/270674/promo), 
 [Middle JavaScript Developer: Курс-квест](https://stepik.org/course/269119/promo), 
 [React FSD: Продвинутая архитектура для крупных приложений](https://stepik.org/course/255412/promo), 
-[Эксперт по созданию чат-ассистентов AI/ML для бизнеса](https://stepik.org/course/270671/promo),  
+[Эксперт по созданию чат-ассистентов AI/ML для бизнеса](https://stepik.org/course/270671/promo), 
 [Эксперт по математике с максимальными баллами в ЕГЭ](https://stepik.org/course/270675/promo), 
 [PHP и Oracle: Интеграция для крупных систем](https://stepik.org/course/267057/promo), 
 [Эксперт AI, умеющий писать эффективные запросы](https://stepik.org/course/270672/promo), 
