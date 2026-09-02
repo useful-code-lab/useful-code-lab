@@ -63,7 +63,6 @@ https://gitverse.ru/avpavlow - это особый репозиторий
 [Продвинутый курс-квест: 🧩 Мастер интерактивного контента 🎮✨](https://stepik.org/course/258089/promo), 
 [Мотивационный OpenTelemetry: прозрачность и рост для инженеров](https://stepik.org/course/253100/promo), 
 [PHP 8: Квест-курс «Чёрный пояс в ООП»](https://stepik.org/course/255399/promo), 
-[PostgreSQL под нагрузкой — от ноды до кластера](https://stepik.org/course/255399/promo), 
 
 
 
