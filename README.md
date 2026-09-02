@@ -57,7 +57,7 @@ https://gitverse.ru/avpavlow - это особый репозиторий
 [Уверенно разбираемся в IP-адресации и 13-й задаче ЕГЭ.](https://stepik.org/course/262584/promo), 
 [Сборник викторин ТРИЗ по большим деньгам и хорошей карьере](https://stepik.org/course/259063/promo), 
 [Мотивационный курс-квест: Таблица умножения по мотивам Roblox](https://stepik.org/course/253182/promo), 
-[🌌 Космос и будущее человечества 🚀👩‍🚀🤖](https://stepik.org/course/257586/promo),  
+[🌌 Космос и будущее человечества 🚀👩‍🚀🤖](https://stepik.org/course/257586/promo), 
 [Продвинутый SQL](https://stepik.org/course/261266/promo), 
 [Мотивационный курс-квест: Data Science и ML по мотивам Minecraft](https://stepik.org/course/253262/promo), 
 [Продвинутый курс-квест: 🧩 Мастер интерактивного контента 🎮✨](https://stepik.org/course/258089/promo), 
