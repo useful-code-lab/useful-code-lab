@@ -58,7 +58,15 @@
 [Мотивационный курс-квест: Data Science и ML по мотивам Minecraft](https://stepik.org/course/253262/promo), 
 [Продвинутый курс-квест: 🧩 Мастер интерактивного контента 🎮✨](https://stepik.org/course/258089/promo), 
 [Мотивационный OpenTelemetry: прозрачность и рост для инженеров](https://stepik.org/course/253100/promo), 
-[PHP 8: Квест-курс «Чёрный пояс в ООП»](https://stepik.org/course/255399/promo), 
+[PHP 8: Квест-курс «Чёрный пояс в ООП»](https://stepik.org/course/255399/promo),
+
+<details>
+  <summary>Можно отправить донат если есть хотите, который поможет мне добавить ещё подобное очень прикольное</summary>
+  
+  ![Ссылка на донат](IMG_20260902_135934.jpg)
+
+</details>
+
 
 
 
