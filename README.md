@@ -32,7 +32,6 @@
 - [Курс-квест: TypeScript Middle+](https://stepik.org/course/259107/promo), 
 - [Самостоятельный ребёнок: курс для родителей](https://stepik.org/course/268540/promo), 
 - [Мотивационный курс «Стартуем с Lua: простой курс для новичков»](https://stepik.org/course/253756/promo), 
-- [Бенчмаркинг PostgreSQL: Выбор сервера для нагрузки](https://stepik.org/course/255411/promo), 
 - [PHP и PostgreSQL: Интеграция для крупных систем](https://stepik.org/course/267055/promo), 
 - [Мастерство работы с большими данными в ClickHouse](https://stepik.org/course/261244/promo), 
 - [Алгоритмическая алхимия: ускорение Python с C и Rust](https://stepik.org/course/266530/promo), 
@@ -56,7 +55,6 @@
 - [Мотивационный курс-квест: Data Science и ML по мотивам Minecraft](https://stepik.org/course/253262/promo), 
 - [Продвинутый курс-квест: 🧩 Мастер интерактивного контента 🎮✨](https://stepik.org/course/258089/promo), 
 - [Мотивационный OpenTelemetry: прозрачность и рост для инженеров](https://stepik.org/course/253100/promo), 
-- [PHP 8: Квест-курс «Чёрный пояс в ООП»](https://stepik.org/course/255399/promo),
 
 <details>
   <summary>Ссылка на донат по курсам</summary>
