@@ -1,4 +1,4 @@
-Курсы (бесплатно):
+Курсы от меня, созданные на платформе Stepik с помощью AI-генерации:
 - [🎯🐹 Полный курс: Middle Go-разработчик 💻](https://stepik.org/course/251758/promo), 
 - [Продвинутый курс Golang: успешное техническое собеседование](https://stepik.org/course/270441/promo), 
 - [Продвинутый Git](https://stepik.org/course/266535/promo), 
