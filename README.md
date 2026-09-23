@@ -1,181 +1,419 @@
-# Бесплатные курсы для разработчиков — Go, Python, AI, DevOps и архитектура
+# 🚀 Полезный код и практические проекты для разработчиков
 
-Этот репозиторий — каталог бесплатных курсов и практических материалов для разработчиков, инженеров и специалистов, которые хотят системно прокачать технические навыки.
+**useful-code-lab** — это открытое портфолио с практическими проектами, лабораториями, учебными материалами и бесплатными курсами для разработчиков.
 
-Здесь собраны курсы по **Go, Python, AI/ML, DevOps, Git, Kubernetes, архитектуре, микросервисам, базам данных, JavaScript, TypeScript, PHP, C#, Java и другим направлениям**.
+Здесь можно не просто посмотреть исходный код, а **разобраться, как решаются реальные инженерные задачи**: от разработки API и работы с базами данных до микросервисов, высоких нагрузок, Kubernetes, DevOps, AI/ML и архитектуры больших систем.
 
-## 🎯 Что вы получите
+> **Полезный код. Реальные задачи. Практические навыки.**
 
-Репозиторий поможет не просто найти очередной учебник, а выбрать направление для конкретной цели:
+---
 
-* освоить новый язык программирования;
-* перейти от Junior к Middle и Senior;
-* подготовиться к техническому собеседованию;
-* разобраться в архитектуре больших приложений;
-* научиться создавать микросервисы;
-* изучить gRPC, Kafka, Redis и OpenTelemetry;
-* улучшить навыки работы с Git и CI/CD;
-* разобраться в Kubernetes и DevOps;
-* изучить современные нейросети и AI/ML;
-* прокачать Python, Go, SQL и другие технологии;
-* подготовиться к разработке реальных production-систем;
-* найти дополнительные материалы для самостоятельного обучения.
+## 🎯 Что вы найдёте здесь
 
-## 🚀 Для кого этот репозиторий
+Репозиторий создан как **практическая карта развития разработчика**.
 
-Подборка будет полезна:
+Вместо разрозненных примеров здесь собраны проекты, которые позволяют изучать технологии через работающий код и воспроизводимые эксперименты.
 
-* начинающим разработчикам;
-* Middle-разработчикам;
-* Senior-разработчикам;
-* инженерам, которые осваивают новый стек;
-* специалистам, готовящимся к собеседованиям;
-* разработчикам, изучающим архитектуру и DevOps;
-* тем, кто хочет заниматься AI/ML;
-* тем, кто предпочитает практическое обучение в формате квестов и проектов.
+### Вы сможете:
 
-## 📚 Курсы по программированию
+* изучать готовые примеры архитектуры;
+* запускать проекты локально и экспериментировать с ними;
+* разбирать production-подходы на практических сценариях;
+* сравнивать разные способы решения одной задачи;
+* изучать Go, Python, PHP, JavaScript, TypeScript и другие технологии;
+* разбираться с PostgreSQL, Redis, MongoDB, Kafka и ClickHouse;
+* изучать микросервисную архитектуру;
+* экспериментировать с Kubernetes и DevOps;
+* исследовать производительность и конкурентность;
+* изучать observability и OpenTelemetry;
+* разбирать AI/ML и LLM-инструменты;
+* использовать проекты как основу для собственных приложений;
+* готовиться к техническим собеседованиям;
+* находить бесплатные курсы и дополнительные материалы.
 
-### Go
+---
 
-* [🎯 Полный курс: Middle Go-разработчик](https://stepik.org/course/251758/promo)
-* [Продвинутый курс Golang: успешное техническое собеседование](https://stepik.org/course/270441/promo)
-* [Go-программист: разработка программ, ботов и веб-сервисов](https://stepik.org/course/270676/promo)
+# 🧑‍💻 Практическое портфолио
 
-**Что можно получить:** систематизацию знаний Go, практику разработки приложений и подготовку к более сложным задачам и техническим собеседованиям.
+Главная часть проекта — не просто список технологий, а **набор практических инженерных решений**.
 
-### Python
+## 🐹 Go и backend
 
-* [🔥 Квест-курс: Параллельный Python](https://stepik.org/course/256069/promo)
-* [🐍 Python Developer Quest: прокачка до Middle](https://stepik.org/course/262590/promo)
-* [Python-разработчик в стиле Minecraft](https://stepik.org/course/263111/promo)
-* [Прокачайся с Python: квесты по архитектуре от Middle до Senior](https://stepik.org/course/253238/promo)
-* [Python Senior: архитектура и практика на квестах](https://stepik.org/course/262593/promo)
-* [Секреты метапрограммирования: Python, который пишет Python](https://stepik.org/course/255404/promo)
-* [Профилирование и оптимизация: программы на Python и Go](https://stepik.org/course/262583/promo)
+В репозиториях можно посмотреть реальные примеры:
 
-**Что можно получить:** развитие Python-навыков от разработки приложений до архитектуры, оптимизации, параллельного программирования и продвинутых возможностей языка.
+* REST API;
+* gRPC;
+* WebSocket;
+* JWT и RBAC;
+* конкурентное программирование;
+* Worker Pool;
+* Kafka;
+* RabbitMQ;
+* NATS;
+* Redis;
+* PostgreSQL;
+* MongoDB;
+* Saga;
+* CQRS;
+* Event-Driven Architecture;
+* Transactional Outbox;
+* rate limiting;
+* distributed locks;
+* идемпотентность;
+* graceful shutdown;
+* профилирование и оптимизацию.
 
-## 🧠 AI, нейросети и Machine Learning
+### Избранные проекты
 
-* [Современные нейросети: раскрытие понятий, архитектур, применения](https://stepik.org/course/262559/promo)
-* [Эксперт по ИИ и ML в реальных проектах](https://stepik.org/course/251835/promo)
-* [Эксперт по созданию чат-ассистентов AI/ML для бизнеса](https://stepik.org/course/270671/promo)
-* [Эксперт AI, умеющий писать эффективные запросы](https://stepik.org/course/270672/promo)
-* [Устройство движка нейросети Ollama: Квест Инженера ИИ LLM](https://stepik.org/course/262612/promo)
-* [Продвинутая разработка нейросетей: от ядра до продакшена](https://stepik.org/course/263112/promo)
+* [Go REST API Starter](https://github.com/useful-code-lab/go-rest-api-starter-jwt-postgresql) — готовая основа REST API с JWT, PostgreSQL, Swagger, Docker, тестами и мониторингом.
+* [Go Event-Driven Order Processing](https://github.com/useful-code-lab/go-event-driven-order-processing) — пример микросервисной обработки заказов через gRPC, Kafka и Redis.
+* [Go Concurrent Task Runner](https://github.com/useful-code-lab/go-concurrent-task-runner) — практический пример Worker Pool, goroutines, channels, context и graceful shutdown.
+* [Go Concurrency Patterns](https://github.com/useful-code-lab/go-concurrency-patterns-highload) — набор паттернов конкурентного программирования.
+* [Go Performance Lab](https://github.com/useful-code-lab/go-performance-lab) — практическая работа с CPU, памятью, goroutines, блокировками и pprof.
+* [Go Internals Practical Guide](https://github.com/useful-code-lab/go-internals-practical-guide) — изучение runtime, scheduler GMP, GC, allocator и escape analysis.
+* [Go Neural Network Lab](https://github.com/useful-code-lab/go-neural-network-lab) — реализация нейросети на Go без сторонних ML-библиотек.
 
-**Что можно получить:** понимание современных AI/ML-инструментов, LLM, нейросетей, AI-ассистентов и принципов построения AI-систем.
+---
 
-## 🏗️ Архитектура и backend
+# 🗄️ PostgreSQL и базы данных
 
-* [Разработчик gRPC-сервисов в Python и Go](https://stepik.org/course/259844/promo)
-* [Разработчик event-driven микросервисов: gRPC, Kafka, Redis](https://stepik.org/course/270669/promo)
-* [PHP и Oracle: интеграция для крупных систем](https://stepik.org/course/267057/promo)
-* [PHP и PostgreSQL: интеграция для крупных систем](https://stepik.org/course/267055/promo)
-* [Продвинутый SQL](https://stepik.org/course/261266/promo)
-* [Мастерство работы с большими данными в ClickHouse](https://stepik.org/course/261244/promo)
+Отдельное направление портфолио — практическое исследование баз данных.
 
-**Что можно получить:** знания, которые помогают проектировать распределённые системы, микросервисы, API и приложения, работающие с большими объёмами данных.
+Здесь можно изучать:
 
-## ⚙️ DevOps, Kubernetes и наблюдаемость
+* индексы;
+* EXPLAIN ANALYZE;
+* транзакции;
+* уровни изоляции;
+* блокировки;
+* deadlocks;
+* optimistic locking;
+* pessimistic locking;
+* replication;
+* failover;
+* sharding;
+* partitioning;
+* JSONB;
+* аналитические запросы;
+* оптимизацию SQL.
 
-* [Kubernetes-квест: обучение в игровом школьном мире](https://stepik.org/course/259848/promo)
-* [DevOps-Археология: находки в глубинах CI/CD](https://stepik.org/course/255400/promo)
-* [Специалист по OpenTelemetry в реальном проекте](https://stepik.org/course/270667/promo)
-* [Мотивационный OpenTelemetry: прозрачность и рост для инженеров](https://stepik.org/course/253100/promo)
-* [Внутреннее устройство и работа прокси](https://stepik.org/course/270666/promo)
+### Проекты
 
-**Что можно получить:** понимание инфраструктуры современных приложений, CI/CD, Kubernetes, мониторинга, observability и сетевого взаимодействия.
+* [PostgreSQL Query Optimization Lab](https://github.com/useful-code-lab/postgresql-query-optimization-lab)
+* [PostgreSQL Concurrent Transactions](https://github.com/useful-code-lab/postgresql-concurrent-transactions)
+* [PostgreSQL HA, Replication & Sharding Lab](https://github.com/useful-code-lab/postgres-ha-replication-sharding-lab)
+* [PostgreSQL Analytics Toolkit](https://github.com/useful-code-lab/postgresql-analytics-toolkit)
+* [Cache Performance Lab](https://github.com/useful-code-lab/cache-performance-lab)
 
-## 🔧 Git и инструменты разработчика
+**Практическая польза:** можно не только прочитать о производительности PostgreSQL, но и воспроизвести эксперименты самостоятельно.
 
-* [Продвинутый Git](https://stepik.org/course/266535/promo)
+---
 
-Курс полезен тем, кто хочет увереннее работать с Git и использовать систему контроля версий не только на базовом уровне.
+# ☁️ Kubernetes, DevOps и инфраструктура
 
-## 💻 Другие языки и технологии
+Проекты позволяют изучать инфраструктуру современных приложений на практике:
 
-### JavaScript и TypeScript
-
-* [Middle JavaScript Developer: Курс-квест](https://stepik.org/course/269119/promo)
-* [Квест-курс: TypeScript Middle+](https://stepik.org/course/259107/promo)
-* [React FSD: Продвинутая архитектура для крупных приложений](https://stepik.org/course/255412/promo)
-
-### Java
-
-* [Java и многопоточность: Квест-курс для продвинутых](https://stepik.org/course/269120/promo)
-
-### C#
-
-* [Квест-Курс: C# для продвинутых](https://stepik.org/course/270442/promo)
-
-### PHP
-
-* [PHP и Oracle: Интеграция для крупных систем](https://stepik.org/course/267057/promo)
-* [PHP и PostgreSQL: Интеграция для крупных систем](https://stepik.org/course/267055/promo)
-
-### Lua
-
-* [Разработчик Lua в игровом мире Roblox](https://stepik.org/course/266536/promo)
-* [Мотивационный курс «Стартуем с Lua: простой курс для новичков»](https://stepik.org/course/253756/promo)
-
-## 🧩 Алгоритмы, производительность и безопасность
-
-* [Алгоритмическая алхимия: ускорение Python с C и Rust](https://stepik.org/course/266530/promo)
-* [Профилирование и оптимизация: программы на Python и Go](https://stepik.org/course/262583/promo)
-* [Квест по кибербезопасности](https://stepik.org/course/268785/promo)
-* [Уверенно разбираемся в IP-адресации и 13-й задаче ЕГЭ](https://stepik.org/course/262584/promo)
-
-Эти материалы помогут расширить кругозор за пределами конкретного языка и лучше понимать производительность, сети, безопасность и устройство программных систем.
-
-## 🎮 Обучение через игровые механики
-
-Часть материалов построена в формате квестов и игровых сценариев:
-
-* Python и Minecraft;
-* Data Science и ML;
-* Roblox и Lua;
 * Kubernetes;
-* алгоритмы;
-* AI и нейросети;
-* профессиональное развитие.
+* Helm;
+* Istio;
+* Docker;
+* Ansible;
+* Prometheus;
+* Grafana;
+* OpenTelemetry;
+* service mesh;
+* Canary Deployment;
+* HPA;
+* автоматическое восстановление;
+* CI/CD;
+* мониторинг и диагностику.
 
-Такой формат может быть удобен тем, кому сложно проходить длинные теоретические курсы и кто предпочитает обучение через последовательные задачи.
+### Проекты
 
-## 📈 Карьера и развитие
+* [Kubernetes Fullstack Go Operator](https://github.com/useful-code-lab/kubernetes-fullstack-go-operator)
+* [Kubernetes + Istio Microservices Lab](https://github.com/useful-code-lab/kubernetes-istio-microservices-lab)
+* [Kubernetes Auto-Healing Incident Explorer](https://github.com/useful-code-lab/kubernetes-auto-healing-incident-explorer)
+* [Kubernetes Microservice Helm + Istio + Redis](https://github.com/useful-code-lab/kubernetes-microservice-helm-istio-redis)
+* [DevOps Go + Ansible + Docker + Monitoring](https://github.com/useful-code-lab/devops-go-ansible-docker-monitoring)
 
-В подборке есть материалы не только про технологии:
+---
 
-* [Квест-прокачка: «Уверенно пройди собес и получи оффер»](https://stepik.org/course/263002/promo)
-* [Как донести свою ценность](https://stepik.org/course/259433/promo)
-* [Командные приключения программистов — прокачка Soft Skills](https://stepik.org/course/262582/promo)
-* [Дневник Эффективности: система 10x](https://stepik.org/course/262585/promo)
+# 📨 Event-Driven и распределённые системы
 
-Они могут дополнить техническое обучение навыками коммуникации, самопрезентации, подготовки к собеседованиям и профессионального развития.
+Отдельный пласт проектов посвящён системам, в которых сервисы взаимодействуют через события и очереди.
 
-## 🗺️ Как использовать подборку
+Можно изучать:
 
-Не обязательно проходить всё подряд.
+* Apache Kafka;
+* RabbitMQ;
+* NATS;
+* Event-Driven Architecture;
+* Saga;
+* CQRS;
+* Eventual Consistency;
+* Transactional Outbox;
+* Retry Queue;
+* Dead Letter Queue;
+* идемпотентность;
+* обработку дубликатов;
+* асинхронное взаимодействие сервисов.
 
-Выберите задачу и двигайтесь по соответствующему направлению:
+### Проекты
 
-**Хочу изучить Go →** Go → backend → микросервисы → gRPC → Kafka → observability
+* [Reliable Event Pipeline](https://github.com/useful-code-lab/reliable-event-pipeline-go-kafka)
+* [Saga + CQRS + RabbitMQ](https://github.com/useful-code-lab/go-saga-cqrs-rabbitmq-postgresql)
+* [Kafka + ClickHouse Event Processing](https://github.com/useful-code-lab/kafka-clickhouse-event-processing-pattern)
+* [Event-Driven Notification Service](https://github.com/useful-code-lab/go-event-driven-notification-service)
+* [Concurrent Transaction Processing](https://github.com/useful-code-lab/concurrent-transaction-processing-go)
 
-**Хочу развиваться в Python →** Python → Middle → архитектура → оптимизация → AI/ML
+---
 
-**Хочу изучить AI →** основы нейросетей → LLM → prompt engineering → AI-ассистенты → production
+# 🐍 Python, аналитика и AI
 
-**Хочу стать сильнее в DevOps →** Git → CI/CD → Kubernetes → OpenTelemetry → observability
+Python-направление объединяет разработку, анализ данных и современные AI-технологии.
 
-**Готовлюсь к собеседованию →** язык программирования → алгоритмы → архитектура → специализированный курс по собеседованиям
+Здесь можно найти материалы по:
 
-## ⭐ Почему стоит сохранить репозиторий
+* Python;
+* Pandas;
+* анализу данных;
+* оптимизации;
+* параллельному программированию;
+* Machine Learning;
+* нейросетям;
+* LLM;
+* AI-ассистентам;
+* prompt engineering.
 
-Подборка может служить личной картой обучения: здесь удобно находить следующий курс после освоения текущего уровня, возвращаться к нужной технологии и открывать новые направления без необходимости самостоятельно искать десятки учебных материалов.
+### Практические проекты
 
-> Все перечисленные в подборке курсы доступны бесплатно на момент составления списка. Условия и доступность материалов на внешних площадках могут изменяться.
+* [Marketplace Sales Analytics](https://github.com/useful-code-lab/marketplace-sales-analytics) — анализ продаж, RFM-сегментация, поиск аномалий и визуализация данных.
+* [Stepik AI Quiz Generator](https://github.com/useful-code-lab/stepik-ai-quiz-generator) — генерация интерактивных учебных заданий с использованием LLM.
 
-## 📌 Цель проекта
+---
 
-Собрать в одном месте полезные образовательные материалы, которые помогают разработчикам **изучать технологии, решать практические задачи, развиваться профессионально и переходить на следующий уровень навыков**.
+# 🏢 Enterprise-разработка
+
+В портфолио представлены проекты, показывающие подходы, которые применяются при создании крупных приложений.
+
+### PHP / Symfony
+
+* [Symfony Billing Architecture](https://github.com/useful-code-lab/Symfony-billing-architecture)
+
+Практический пример биллинга с DDD, Hexagonal Architecture, CQRS, Messenger, Doctrine и PostgreSQL.
+
+### Laravel
+
+* [Laravel 13 Marketplace Backend](https://github.com/useful-code-lab/laravel13-marketplace-backend)
+
+Backend мультивендорного маркетплейса с DDD, CQRS, REST API, транзакциями, кэшированием и защитой от race condition.
+
+### Vue / TypeScript
+
+* [Vue 3 Enterprise HR Architecture](https://github.com/useful-code-lab/vue3-enterprise-hr-architecture)
+
+Enterprise frontend с Vue 3, TypeScript, FSD, Pinia, RBAC, MSW, CRUD, тестированием и accessibility.
+
+---
+
+# 🧪 Лаборатории
+
+Отдельная ценность репозитория — **лабораторный подход**.
+
+Многие проекты можно использовать как небольшие инженерные эксперименты:
+
+```text
+Запустил → изменил → нагрузил → измерил → сравнил → сделал вывод
+```
+
+Например:
+
+**Производительность**
+
+CPU → memory → goroutines → locks → latency → pprof
+
+**PostgreSQL**
+
+Query → EXPLAIN → Index → Lock → Transaction → Optimization
+
+**Kubernetes**
+
+Deployment → Service → Ingress → HPA → Istio → Observability
+
+**Event-driven**
+
+Producer → Kafka → Consumer → Retry → DLQ → Idempotency
+
+Такой подход помогает переходить от теоретического понимания технологии к практическому опыту.
+
+---
+
+# 📚 Бесплатные курсы
+
+Помимо собственных практических проектов, здесь собрана подборка бесплатных курсов.
+
+## Go
+
+* [Middle Go-разработчик](https://stepik.org/course/251758/promo)
+* [Продвинутый Golang: техническое собеседование](https://stepik.org/course/270441/promo)
+* [Go-программист: программы, боты и веб-сервисы](https://stepik.org/course/270676/promo)
+
+## Python
+
+* [Квест: Параллельный Python](https://stepik.org/course/256069/promo)
+* [Python Developer Quest](https://stepik.org/course/262590/promo)
+* [Python и архитектура: Middle → Senior](https://stepik.org/course/253238/promo)
+* [Python Senior: архитектура и практика](https://stepik.org/course/262593/promo)
+* [Метапрограммирование Python](https://stepik.org/course/255404/promo)
+* [Профилирование и оптимизация Python и Go](https://stepik.org/course/262583/promo)
+
+## AI / ML
+
+* [Современные нейросети](https://stepik.org/course/262559/promo)
+* [AI и ML в реальных проектах](https://stepik.org/course/251835/promo)
+* [AI/ML-чат-ассистенты для бизнеса](https://stepik.org/course/270671/promo)
+* [Prompt Engineering](https://stepik.org/course/270672/promo)
+* [Устройство Ollama и LLM](https://stepik.org/course/262612/promo)
+* [Разработка нейросетей: от ядра до продакшена](https://stepik.org/course/263112/promo)
+
+## Backend и архитектура
+
+* [gRPC на Python и Go](https://stepik.org/course/259844/promo)
+* [Event-Driven микросервисы](https://stepik.org/course/270669/promo)
+* [Продвинутый SQL](https://stepik.org/course/261266/promo)
+* [ClickHouse и большие данные](https://stepik.org/course/261244/promo)
+
+## DevOps
+
+* [Kubernetes-квест](https://stepik.org/course/259848/promo)
+* [DevOps и CI/CD](https://stepik.org/course/255400/promo)
+* [OpenTelemetry в реальном проекте](https://stepik.org/course/270667/promo)
+* [OpenTelemetry для инженеров](https://stepik.org/course/253100/promo)
+
+## Другие технологии
+
+* [Middle JavaScript Developer](https://stepik.org/course/269119/promo)
+* [TypeScript Middle+](https://stepik.org/course/259107/promo)
+* [React FSD](https://stepik.org/course/255412/promo)
+* [Java и многопоточность](https://stepik.org/course/269120/promo)
+* [C# для продвинутых](https://stepik.org/course/270442/promo)
+* [Lua и Roblox](https://stepik.org/course/266536/promo)
+
+---
+
+# 🗺️ Как использовать этот GitHub
+
+Не обязательно изучать всё подряд.
+
+Выберите конкретную цель и используйте репозитории как практический маршрут.
+
+### Хочу изучить Go
+
+**Go → REST API → PostgreSQL → concurrency → gRPC → Kafka → Kubernetes → observability**
+
+### Хочу усилить Python
+
+**Python → архитектура → параллельность → оптимизация → Data Science → AI/ML**
+
+### Хочу разобраться в микросервисах
+
+**REST → gRPC → Kafka/RabbitMQ → Event-Driven → Saga → CQRS → Kubernetes**
+
+### Хочу изучить PostgreSQL
+
+**SQL → индексы → EXPLAIN → транзакции → locks → replication → HA → sharding**
+
+### Хочу разобраться в DevOps
+
+**Docker → CI/CD → Ansible → Kubernetes → Helm → Istio → Prometheus → Grafana → OpenTelemetry**
+
+### Хочу изучать AI
+
+**Нейросети → LLM → Prompt Engineering → AI-ассистенты → интеграция в приложения**
+
+---
+
+# 💡 Что можно взять из проектов
+
+Каждый репозиторий можно использовать по-разному.
+
+### 📖 Как учебник
+
+Изучить структуру проекта, архитектуру и реализацию отдельных компонентов.
+
+### 🔬 Как лабораторную работу
+
+Запустить проект, изменить параметры и посмотреть, как меняется поведение системы.
+
+### 🧩 Как основу собственного проекта
+
+Взять архитектурный подход, конфигурацию или отдельный компонент и адаптировать его под свою задачу.
+
+### 💼 Как материал для портфолио
+
+Использовать проекты для демонстрации практических навыков и обсуждения архитектурных решений на техническом собеседовании.
+
+### 🧠 Как шпаргалку
+
+Вернуться к нужному репозиторию, когда понадобится конкретный паттерн, технология или инженерное решение.
+
+---
+
+# ⭐ Почему стоит сохранить репозиторий
+
+**useful-code-lab** можно использовать как персональную техническую библиотеку.
+
+Вместо поиска десятков разрозненных примеров здесь можно найти:
+
+* готовый пример;
+* практический эксперимент;
+* архитектурный шаблон;
+* лабораторную работу;
+* учебный курс;
+* идею для собственного проекта;
+* материал для подготовки к собеседованию.
+
+Репозиторий развивается и постепенно превращается в **карту практических знаний для разработчика**.
+
+---
+
+# 🧭 С чего начать
+
+Если вы впервые попали сюда, можно начать с одного из направлений:
+
+| Цель            | С чего начать                         |
+| --------------- | ------------------------------------- |
+| 🐹 Go           | REST API → concurrency → gRPC         |
+| 🐍 Python       | Python → оптимизация → AI/ML          |
+| 🏗️ Архитектура | DDD → CQRS → микросервисы             |
+| 📨 Event-Driven | Kafka → RabbitMQ → Saga               |
+| 🗄️ PostgreSQL  | SQL → индексы → транзакции            |
+| ☁️ Kubernetes   | Kubernetes → Helm → Istio             |
+| 📊 Data         | Python → Pandas → аналитика           |
+| 🤖 AI           | LLM → Prompt Engineering → AI-системы |
+| ⚡ Performance   | profiling → pprof → optimization      |
+| 🔐 Security     | TLS/mTLS → JWT → RBAC                 |
+
+---
+
+# 👨‍💻 О проекте
+
+**useful-code-lab** создаётся как открытая техническая библиотека, где знания представлены не только в виде текста, но и через **код, эксперименты и воспроизводимые сценарии**.
+
+Основная идея проста:
+
+> **Не просто прочитать о технологии — запустить её, изменить, измерить и понять, как она работает.**
+
+Если проект оказался полезен — ⭐ поставьте Star и сохраните репозиторий, чтобы вернуться к нему позже.
+
+---
+
+## ⚠️ Об образовательных материалах
+
+Ссылки на внешние курсы и материалы ведут на сторонние площадки. Условия бесплатного доступа, содержание и доступность курсов могут изменяться их авторами и владельцами платформ.
+
+Практические проекты этого профиля предназначены для обучения, экспериментов и изучения инженерных подходов.
+
+---
+
+**Полезный код → Практический эксперимент → Реальный навык.**
